@@ -1,0 +1,96 @@
+body {
+  background-color: #dbd5d4;
+  font-family: 'Gudea', sans-serif;
+  color: #2c2c2c;
+  font-size: 13px;
+  line-height: 150%;
+}
+
+h1, h2, h3 {
+  color: #4f4750;
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 50%
+}
+
+h1 {
+  font-size: 150%;
+}
+
+h2 {
+  font-size: 110%;
+}
+
+h3 {
+  font-size: 90%;
+}
+
+a {
+  color: #5f5566;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: line-through;
+}
+
+table {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: #f8f9fa;
+  border: 5px;
+  border-radius: 3px;
+  box-shadow: 3px 3px 2px #a09b9b;
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.social_media_list {
+  list-style: none;
+  margin: 5%;
+}
+
+.s_f_y_button {
+  background-color: #4f4750;
+  border: 2px solid #4f4750;
+  padding: 12px 28px;
+  font-size: 14px;
+  border-radius: 8px;
+}
+
+.s_f_y_button:hover {
+  background-color: #dbd5d4;
+  font-color: #4f4750;
+}
+
+.button_link {
+  color: #f8f9fa;
+}
+
+.button_link:hover {
+  color: #4f4750;
+}
+
+.presentation_card {
+  margin: 5%;
+  padding: 3%;
+}
+
+.presentation_img {
+  margin-bottom: 5%;
+  margin-top: 0%;
+}
+
+.name_and_title {
+  margin-bottom: 5%;
+}
